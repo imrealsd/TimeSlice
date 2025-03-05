@@ -1,0 +1,11 @@
+../time_slice/Src/time_slice.c:72:13:timeSlice_initSysTick	1
+../time_slice/Src/time_slice.c:83:29:timeSlice_initSchedStack	1
+../time_slice/Src/time_slice.c:94:29:timeSlice_switchToPSP	1
+../time_slice/Src/time_slice.c:115:13:timeSlice_initTaskStack	3
+../time_slice/Src/time_slice.c:137:13:timeSlice_enableProcessorFaults	1
+../time_slice/Src/time_slice.c:146:13:timeSlice_setCurrTaskPSP	2
+../time_slice/Src/time_slice.c:154:17:timeSlice_getCurrTaskPSP	2
+../time_slice/Src/time_slice.c:163:13:timeSlice_updateNextTask	1
+../time_slice/Src/time_slice.c:173:6:timeSlice_initScheduler	1
+../time_slice/Src/time_slice.c:184:6:timeSlice_taskDelay	1
+../time_slice/Src/time_slice.c:191:29:SysTick_Handler	1
